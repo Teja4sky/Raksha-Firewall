@@ -109,11 +109,17 @@ Keep this list short and specific to maintain strict protection.
 
 Run only in a controlled lab or your personal system.
 
+
 Test Type	Command	Expected Result
+
 Port Scan	nmap -sS <target-ip>	Detected & blocked
+
 SYN Flood	sudo hping3 -S -p 80 --flood <target-ip>	Blocked instantly
+
 View Rules	sudo iptables -L	Displays blocked IPs
+
 Flush Rules	sudo iptables -F	Clears all blocks
+
 
 
 
