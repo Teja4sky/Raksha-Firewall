@@ -42,7 +42,7 @@ Platforms	Linux / Raspberry Pi / Ubuntu
 
 🧾 Installation
 1️⃣ Clone Repository
-git clone https://github.com/<your-username>/Rasksaa.git
+git clone https://github.com/Teja4sky/Raksha-Firewall.git
 cd Rasksaa
 
 2️⃣ Install Dependencies
