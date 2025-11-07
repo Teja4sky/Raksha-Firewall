@@ -95,6 +95,11 @@ Keep this list short and specific to maintain strict protection.
 
 [12:11:23] [LOG] Event written to firewall_log.txt
 
+<img width="1057" height="724" alt="Screenshot 2025-11-07 233134" src="https://github.com/user-attachments/assets/b61cd893-81bf-45c2-ae97-71444e5de899" />
+
+
+
+
 
 
 
