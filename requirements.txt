@@ -1,0 +1,14 @@
+# Rasksaa Firewall Dependencies
+
+# 🧠 Packet Sniffing and Network Monitoring
+scapy==2.5.0
+
+# ⚙️ System & Process Management
+psutil==6.0.0
+
+# 🧾 Optional: CSV & JSON are built-in to Python (no need to install)
+
+# 🌐 Optional Future Features (commented out)
+# flask==3.0.3          # For future web dashboard (if added)
+# tensorflow==2.16.1     # For future AI-based anomaly detection
+# requests==2.31.0       # For possible API or cloud communication
