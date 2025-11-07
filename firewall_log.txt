@@ -1,0 +1,2 @@
+[23:31:02] [INFO] Logs cleared.
+[23:31:18] [INFO] Whitelist loaded: {'127.0.0.1'}
